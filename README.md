@@ -1,6 +1,3 @@
-Of course! Here's the complete content in Markdown format with proper headers:
-
-```markdown
 # Image Captioning
 
 ## Overview
